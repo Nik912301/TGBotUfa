@@ -1,6 +1,5 @@
 install:
-    pip install poetry && \
-    poetry install
-
+*****pip install poetry && \
+*****poetry install
 start:
-    poetry run python TgBotProject/main.py
+*****poetry run python TgBotProject/main.py
